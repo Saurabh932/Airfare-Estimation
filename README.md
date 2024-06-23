@@ -6,7 +6,9 @@ Predict flight prices based on various parameters using machine learning.
 ---
 
 # Webapp Link
-Link: http://3.85.79.169:7000/predict
+Link: http://3.85.79.169:7000
+
+---
 
 ## Workflow
 
