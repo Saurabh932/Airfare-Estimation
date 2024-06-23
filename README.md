@@ -2,7 +2,6 @@
 
 Predict flight prices based on various parameters using machine learning.
 
-![Project Image](./project_image.png)
 
 ---
 
@@ -31,7 +30,7 @@ This project utilizes machine learning to predict flight prices based on factors
 
 Include a GIF or screenshot of your application in action.
 
-![Demo GIF](./demo.gif)
+[![Watch the video](https://github.com/Saurabh932/Airfare-Estimation/blob/main/images/image-1.png)](https://github.com/Saurabh932/Airfare-Estimation/blob/main/images/airfare_video.mp4)
 
 ---
 
@@ -99,14 +98,14 @@ docker-compose up
 
 **1. Click the button to procedded:**
 
-![](https://github.com/Saurabh932/First-Mlops-Project/blob/main/images/1-predict.jpg)
+![](https://github.com/Saurabh932/Airfare-Estimation/blob/main/images/image-1.png)
 
 
 **2. Enter the values.**
 
-![](https://github.com/Saurabh932/First-Mlops-Project/blob/main/images/2-predict.jpg)
+![](https://github.com/Saurabh932/Airfare-Estimation/blob/main/images/image-2.png)
 
 
 **3. Click on submit to get final Result**
 
-![](https://github.com/Saurabh932/First-Mlops-Project/blob/main/images/3-predict.jpg)
+![](https://github.com/Saurabh932/Airfare-Estimation/blob/main/images/image-3.png)
