@@ -6,20 +6,17 @@ Predict flight prices based on various parameters using machine learning.
 
 ---
 
----
-
 # Webapp Link
-Link: http://3.85.79.169:7000
-
+Link: http://3.85.79.169:7000/predict
 
 ## Workflow
 
-- [setup]
-- [experiments]
-- [components]
-- [pipeline]
-- [Docker]
-- [app]
+- setup
+- experiments
+- components
+- pipeline
+- Docker
+- app
 
 
 ---
@@ -47,14 +44,14 @@ Include a GIF or screenshot of your application in action.
 
 ---
 
-## Getting Started
+## How to Use This Repository
 
-Follow these instructions to get the project up and running on your local machine.
+1. Clone the repository to your local machine.
+2. Install the required dependencies specified in the `requirements.txt` file.
+3. Explore the project structure to understand the organization of code, data, and resources.
+4. Follow the instructions in the README.md file to run the prediction pipeline and deploy the models to production environments.
 
-### Prerequisites
 
-- Python 3.8 or higher
-- Docker (optional, for containerized deployment)
 
 ### Installation
 
@@ -64,3 +61,52 @@ Follow these instructions to get the project up and running on your local machin
    cd airfare-prediction
 
 
+2. **Install Dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+
+3. ***Run the Application:***
+    To run the Flask web application:
+    ```bash
+    python app.py
+    ```
+* Access the application in your web browser at http://localhost:7000.
+
+
+5. **Run with Docker:**
+* If you prefer to use Docker, you can easily run the project with Docker Compose. Simply navigate to the project directory and run:
+```bash
+docker-compose up --build
+```
+* And the run:
+```bash
+docker-compose up
+```
+<br>
+
+
+### Techstack Used:
+
+- Python
+- Git
+- Flask
+- Docker
+
+
+## Web Application Demo
+
+**1. Click the button to procedded:**
+
+![](https://github.com/Saurabh932/First-Mlops-Project/blob/main/images/1-predict.jpg)
+
+
+**2. Enter the values.**
+
+![](https://github.com/Saurabh932/First-Mlops-Project/blob/main/images/2-predict.jpg)
+
+
+**3. Click on submit to get final Result**
+
+![](https://github.com/Saurabh932/First-Mlops-Project/blob/main/images/3-predict.jpg)
