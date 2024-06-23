@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: airfare-estimation
+Version: 0.0.0
+Author: Saurabh Mandhalkar
+Author-email: saurabhmandhalkar03@gmail.com
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: numpy

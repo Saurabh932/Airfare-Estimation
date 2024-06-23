@@ -1,0 +1,11 @@
+[ 2024-06-21 11:32:17,782 ] 26 root - INFO - Data Ingestion has started.
+[ 2024-06-21 11:32:17,782 ] 29 root - INFO - Import train raw data from MongoDB.
+[ 2024-06-21 11:32:20,784 ] 38 root - INFO - Train data imported and saved.
+[ 2024-06-21 11:32:20,784 ] 41 root - INFO - Import test raw data from MongoDB.
+[ 2024-06-21 11:32:21,857 ] 50 root - INFO - Test data imported and saved.
+[ 2024-06-21 11:32:21,967 ] 33 root - INFO - Model Training Started.
+[ 2024-06-21 11:32:21,967 ] 36 root - INFO - Loading data from: artifacts\preprocessed_train.csv
+[ 2024-06-21 11:32:22,044 ] 56 root - INFO - Training data shape: (8012, 47), (8012,)
+[ 2024-06-21 11:32:22,044 ] 57 root - INFO - Testing data shape: (2671, 47), (2671,)
+[ 2024-06-21 11:39:32,786 ] 127 root - INFO - Best model CatBoost Regressor with R2 score: 0.8380676095316595 saved.
+[ 2024-06-21 11:39:32,796 ] 145 root - INFO - Model Evaluation has Started.

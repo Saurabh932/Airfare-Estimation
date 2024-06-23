@@ -1,0 +1,29 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #008000;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+.card-title {
+    font-size: 1.2em; /* Increase font size */
+    font-weight: bold; /* Make the font bold */
+}
+
+.card-body h5 {
+    font-weight: bold; /* Make the headings in card body bold */
+}
+
+
+
+
