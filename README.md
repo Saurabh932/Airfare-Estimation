@@ -26,13 +26,6 @@ This project utilizes machine learning to predict flight prices based on factors
 
 ---
 
-## Demo
-
-Include a GIF or screenshot of your application in action.
-
-[![Watch the video](https://github.com/Saurabh932/Airfare-Estimation/blob/main/images/image-1.png)](https://github.com/Saurabh932/Airfare-Estimation/blob/main/images/airfare_video.mp4)
-
----
 
 ## Features
 
