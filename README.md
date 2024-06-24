@@ -18,6 +18,7 @@ Link: http://3.85.79.169:7000
 - pipeline
 - Docker
 - app
+- AWS (ECS)
 
 
 ---
